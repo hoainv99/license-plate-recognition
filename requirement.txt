@@ -57,3 +57,4 @@ gdown
 albumentations
 timm
 omegaconf
+pycocotools
