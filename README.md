@@ -5,7 +5,7 @@ To install dependencies and weight. Flow this:
 
 ``` gdown --id 1HL68JCUqGKopjk3w_gosA6nC4-Mk_72j```
 
-``` !unzip -q weights_license_plate_recognition.zip ```
+``` unzip -q weights_license_plate_recognition.zip ```
 
 # RUN
 ```uvicorn main:app --reload```
