@@ -56,3 +56,4 @@ zipp==3.4.0
 gdown
 albumentations
 timm
+omegaconf
